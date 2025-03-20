@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datenbanken/SQL.md",
+                "file": "Qualitätsmanagement/Qualitätsmanagement.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SQL"
+              "title": "Qualitätsmanagement"
             }
           }
         ],
