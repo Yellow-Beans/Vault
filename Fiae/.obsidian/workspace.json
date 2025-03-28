@@ -11,10 +11,14 @@
             "id": "ee0158d2ebf459f6",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Qualitätsmanagement/Qualitätsmanagement.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Neuer Tab"
+              "title": "Qualitätsmanagement"
             }
           }
         ]
@@ -166,8 +170,10 @@
   },
   "active": "ee0158d2ebf459f6",
   "lastOpenFiles": [
-    "Qualitätsmanagement/IT Sicherheit.md",
+    "Pasted image 20250326092154.png",
     "Qualitätsmanagement/Qualitätsmanagement.md",
+    "Qualitätsmanagement/Playlist Linux.md",
+    "Qualitätsmanagement/IT Sicherheit.md",
     "Datenbanken/SQL.md",
     "Datenbanken/Material Normalformen.md",
     "Datenbanken/Normalisierung.md",
