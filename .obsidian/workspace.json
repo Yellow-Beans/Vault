@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "7090f39bb1175eb9",
+    "type": "split",
+    "children": [
+      {
+        "id": "d77826298c4a000c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8077e3b807669e8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ap1/QM - DIN 9000ff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QM - DIN 9000ff"
+            }
+          },
+          {
+            "id": "a75119b118e5e6ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ap1/QM - DIN 9000ff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QM - DIN 9000ff"
+            }
+          },
+          {
+            "id": "60ee1cf1acb93bea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ap1/QM - DIN 9000ff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "QM - DIN 9000ff"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "82bd072326d3289c",
+    "type": "split",
+    "children": [
+      {
+        "id": "87ae05238dee5ef1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2a051d9e7b7f75ae",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "a840d7cece06d78b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "75a4da92aa61513f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Lesezeichen"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "52a79d126d973db1",
+    "type": "split",
+    "children": [
+      {
+        "id": "fac95082ca6e5c77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dc88d1b851a2dba9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ap1/QM - DIN 9000ff.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise für QM - DIN 9000ff"
+            }
+          },
+          {
+            "id": "0bfaad725ee8a311",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Ap1/QM - DIN 9000ff.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Ausgehende Links von QM - DIN 9000ff öffnen"
+            }
+          },
+          {
+            "id": "08c61bd3ad961fff",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f10ee27b6fc549b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Ap1/QM - DIN 9000ff.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Gliederung von QM - DIN 9000ff"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graphen-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false
+    }
+  },
+  "active": "60ee1cf1acb93bea",
+  "lastOpenFiles": [
+    "Ap1/Lösung 3 zu QM - DIN 9000ff.md",
+    "Ap1/QM - DIN 9000ff.md",
+    "Ap1/Lösung 2 zu QM - DIN 9000ff.md",
+    "Ap1/Lösung 1 zu QM - DIN 9000ff.md",
+    "Fiae/Ausbildung.md",
+    "Ap1"
+  ]
+}
