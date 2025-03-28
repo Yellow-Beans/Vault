@@ -4,77 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "4adcf7f6497f091c",
+        "id": "50972692cd677bec",
         "type": "tabs",
         "children": [
           {
-            "id": "56555344ec4aaecb",
+            "id": "ee0158d2ebf459f6",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Normalisierung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Normalisierung"
-            }
-          },
-          {
-            "id": "54ea788065b8bb77",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Normalform.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "1. Normalform"
-            }
-          },
-          {
-            "id": "f363f73a17fd48bc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2. Normalform.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. Normalform"
-            }
-          },
-          {
-            "id": "9121692e976c87d3",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graphansicht"
-            }
-          },
-          {
-            "id": "30b19ab54e3ca759",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Qualitätsmanagement/Qualitätsmanagement.md",
-                "mode": "source",
-                "source": false
-              },
               "icon": "lucide-file",
-              "title": "Qualitätsmanagement"
+              "title": "Neuer Tab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -221,15 +164,16 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "30b19ab54e3ca759",
+  "active": "ee0158d2ebf459f6",
   "lastOpenFiles": [
+    "Qualitätsmanagement/IT Sicherheit.md",
+    "Qualitätsmanagement/Qualitätsmanagement.md",
     "Datenbanken/SQL.md",
     "Datenbanken/Material Normalformen.md",
     "Datenbanken/Normalisierung.md",
     "Datenbanken/1. Normalform.md",
     "Datenbanken/2. Normalform.md",
     "Datenbanken/3. Normalform.md",
-    "Qualitätsmanagement/Qualitätsmanagement.md",
     "Datenbanken/Datenbanken.md",
     "Ausbildung.md",
     "Datenbanken",
