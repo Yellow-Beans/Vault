@@ -1,4 +1,4 @@
-[[QM - DIN 9000ff]]
+[[_QM - DIN EN ISO 9000ff]]
 
 - Die Normenreihe DIN EN ISO 9000ff bildet die Grundlage für die Planung und Umsetzung  eines QMs (=Qualitätsmanagementsystems)
 

@@ -41,16 +41,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ap1/QM - DIN 9000ff.md",
+                "file": "Fiae/Ap1/Lösung 3 zu QM - DIN 9001.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "QM - DIN 9000ff"
+              "title": "Lösung 3 zu QM - DIN 9001"
+            }
+          },
+          {
+            "id": "e769198a1dafef41",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiae/Ap1/Lösung 4 zu QM - DIN 9004.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Lösung 4 zu QM - DIN 9004"
+            }
+          },
+          {
+            "id": "89ca0755318b79aa",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graphansicht"
+            }
+          },
+          {
+            "id": "8a24f4b669c53993",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiae/Ap1/PDCA.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "PDCA"
+            }
+          },
+          {
+            "id": "3540bf92de3e6d96",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Fiae/Ap1/BASH/BASH - Befehle.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BASH - Befehle"
+            }
+          },
+          {
+            "id": "1a664dd8e7481589",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSGVO.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "DSGVO"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -197,13 +263,34 @@
       "command-palette:Befehlspalette öffnen": false
     }
   },
-  "active": "60ee1cf1acb93bea",
+  "active": "1a664dd8e7481589",
   "lastOpenFiles": [
+    "Fiae/Ausbildung.md",
+    "DSGVO.md",
+    "Pasted image 20250330124038.png",
+    "Pasted image 20250330123719.png",
+    "Pasted image 20250330122743.png",
+    "Pasted image 20250330122332.png",
+    "Pics - do not touche/Pasted image 20250330122203.png",
+    "Pics - do not touche/Pasted image 20250330121725.png",
+    "Pics - do not touche/Pasted image 20250330120711.png",
+    "Fiae/Ap1/BASH/BASH - Befehle.md",
+    "Pics - do not touche/Pasted image 20250329125605.png",
+    "Pics - do not touche/Pasted image 20250329123410.png",
+    "Pasted image 20250329121846.png",
+    "Fiae/Ap1/PDCA.md",
+    "Fiae/Ap1/BASH",
+    "Fiae/Ap1/Grundsätze des QM.md",
+    "Fiae/Ap1/_QM - DIN EN ISO 9000ff.md",
+    "Fiae/Ap1/Lösung 4 zu QM - DIN 9004.md",
+    "Pics - do not touche",
+    "Fiae/Ap1/Lösung 3 zu QM - DIN 9001.md",
+    "Fiae/Ap1/Lösung 2 zu QM - DIN 9000.md",
+    "Fiae/Ap1/Lösung 1 zu QM - DIN 9000ff.md",
     "Ap1/Lösung 3 zu QM - DIN 9000ff.md",
     "Ap1/QM - DIN 9000ff.md",
     "Ap1/Lösung 2 zu QM - DIN 9000ff.md",
     "Ap1/Lösung 1 zu QM - DIN 9000ff.md",
-    "Fiae/Ausbildung.md",
     "Ap1"
   ]
 }

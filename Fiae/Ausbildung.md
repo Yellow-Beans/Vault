@@ -1,4 +1,4 @@
 [[Datenbanken]]
 [[Qualitätsmanagement]]
-[[QM - DIN 9000ff]]
+[[_QM - DIN EN ISO 9000ff]]
 
